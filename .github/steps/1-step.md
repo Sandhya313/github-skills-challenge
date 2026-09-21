@@ -31,7 +31,7 @@ Let's learn how to automate this ever-growing need for testing our code by using
 
 1. In the left navigation, select the **Explorer** tab to show the project files.
 
-1. Open the `src/calculations.py` and `tests/calculation_tests.py` files.
+1. Open the `src/calculations.py` and `tests/calculations_test.py` files.
 
 1. Take a moment to read these files to become familiar.
 
